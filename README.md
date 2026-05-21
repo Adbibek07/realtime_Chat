@@ -26,6 +26,9 @@ Utilities: date-fns
 Avatar Generation: DiceBear API
 📂 Project Structure
 src/
+
+
+
 │
 ├── components/
 │   ├── Channel.jsx        # Chat room logic (send + receive messages)

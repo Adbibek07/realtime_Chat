@@ -4,6 +4,10 @@ A modern real-time chat application built with React, Firebase Firestore, Google
 
 ---
 
+## LIVE
+
+- https://realtime-chat11.netlify.app
+
 ## 🚀 Features
 
 - 🔐 Google Authentication (Firebase Auth)
